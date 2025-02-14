@@ -1,1 +1,1 @@
-def speak()
+def speak ()
